@@ -20,7 +20,7 @@ namespace OldPhonePad
             string[] keyMap =
             {
             " ",    // 0
-            "",     // 1 
+            "&'(",     // 1 
             "ABC",  // 2
             "DEF",  // 3
             "GHI",  // 4
